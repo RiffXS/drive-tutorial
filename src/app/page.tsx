@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { File, mockFiles } from "../lib/mock-data";
+import { mockFiles } from "../lib/mock-data";
 import { ChevronRight, FileIcon, Folder, Upload } from "lucide-react";
 import Link from "next/link";
 import { Button } from "~/components/ui/button";
